@@ -1,0 +1,25 @@
+.game{
+    width: 400px;
+    height: 500px;
+}
+
+.character {
+    height: 70px;
+    width: 40px;
+    background-color: rgb(218, 9, 215);
+    position: absolute;
+    bottom: 0px;
+
+
+
+}
+
+
+
+.slide{
+    height: 40px;
+    width: 70px;
+    background-color: rgb(20, 227, 9);
+    position: absolute;
+    bottom: 0px;
+}
